@@ -1,0 +1,15 @@
+403 827 2374
+
+1 due wed
+-questions
+	-what client
+	-what data
+-dataset
+
+questions first
+
+2. proposal, questions, tools, etc
+
+3. analysis
+
+4. presentation

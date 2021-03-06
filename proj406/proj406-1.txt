@@ -1,0 +1,46 @@
+idea1
+
+what are the most impactful predictors for mental health in workplace
+> is it possible to direct resources to certain areas to boost efficiency in dealing with mental health
+	> cost efficiency measurable?
+	>> would have to find cost data for this
+are they environmental or caused by self-induced bias
+improving mental health will improve work place efficiency
+
+data:
+https://www.kaggle.com/osmi/mental-health-in-tech-survey
+
+measure 
+>get treatment?
+potential issues
+>>may not be accurate -> affected individuals may not have sought treatment
+
+
+
+idea2
+
+heart disease
+is it possible to predict heart disease
+>what is the most efficient "predictor" to deal with to reduce chance of hd
+ea "organization" would be each patient
+
+data: https://www.kaggle.com/ronitf/heart-disease-uci
+measure
+>chest pain type
+>blood pressure/heart rate
+
+
+
+idea 3
+
+canadian oil price/forecast
+
+what are the most impactful predictors for oil price
+time series forecasting on 
+
+measures 
+>wcs prices
+>us oil prices
+>exch rate
+>export rates
+
